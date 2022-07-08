@@ -1,0 +1,7 @@
+sport
+music
+fashion
+beauty
+game
+song
+dance
